@@ -1,7 +1,7 @@
 # WebWithGo-1
 Web Programming with Go
 
-Sure! Let's go through the `main.go` and `index.html` files in detail, explaining each part of the code, why it's used, and how it works.
+Let's go through the `main.go` and `index.html` files in detail, explaining each part of the code, why it's used, and how it works.
 
 ### 1. `main.go` File
 
